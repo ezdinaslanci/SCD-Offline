@@ -1,0 +1,2 @@
+CMakeLists.txt not found in C:\Users\improve\CLionProjects\cpd
+Cannot load CMake project: Neither MinGW nor Cygwin is selected

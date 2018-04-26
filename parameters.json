@@ -1,0 +1,1 @@
+{"parameters":{"depth":100,"lambda":0.99,"movingWindowSize":100,"lookBuffer":100,"lookSide":1,"minPeakDistance":500,"minPeakHeight":0.4,"startPoint":500,"markovDependencySwitch":"001","normalizeZerothOrders":1,"numberOfDependenciesConsidered":0,"discountFactor":0}}
